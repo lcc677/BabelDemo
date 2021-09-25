@@ -1,0 +1,13 @@
+{
+  "plugins":[
+    "@babel/plugin-transform-member-expression-literals",
+    "@babel/plugin-transform-property-literals",
+    "@babel/plugin-transform-reserved-words",
+    "@babel/plugin-proposal-logical-assignment-operators",
+    "@babel/plugin-transform-typescript",
+    "@babel/plugin-transform-modules-amd",
+    "@babel/plugin-transform-modules-commonjs",
+    "@babel/plugin-transform-modules-systemjs",
+    "@babel/plugin-transform-modules-umd"
+  ]
+}
