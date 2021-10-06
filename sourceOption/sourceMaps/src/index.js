@@ -9,4 +9,3 @@ const tmp = () => {
   }
 }
 Promise.resolve().finally();
-export default {a}

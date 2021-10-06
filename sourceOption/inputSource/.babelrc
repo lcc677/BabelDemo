@@ -7,7 +7,7 @@
     "safari": "11.1",
     "esmodules":true
   },
-  "ignore": ["./abc.js"],
+  "inputSourceMap": true,
   "presets": [["@babel/env",{
     "useBuiltIns": "usage"
   }]]

@@ -1,10 +1,5 @@
 "use strict";
 
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
 require("core-js/modules/es7.array.includes.js");
 
 require("core-js/modules/es7.promise.finally.js");
@@ -27,7 +22,3 @@ var tmp = function tmp() {
 };
 
 Promise.resolve().finally();
-var _default = {
-  a: a
-};
-exports.default = _default;
